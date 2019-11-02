@@ -1,4 +1,4 @@
-package pruebatecnicagrupor5;
+package com.pruebatecnicagrupor5;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

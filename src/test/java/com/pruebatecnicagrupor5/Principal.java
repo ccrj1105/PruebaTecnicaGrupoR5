@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pruebatecnicagrupor5;
+package com.pruebatecnicagrupor5;
 
 
+import com.pruebatecnicagrupor5.mainpage.MainPage;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import pruebatecnicagrupor5.mainpage.MainPage;
 
 /**
  * @author cristian

@@ -1,8 +1,8 @@
-package pruebatecnicagrupor5.registerdata;
+package com.pruebatecnicagrupor5.registerdata;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import pruebatecnicagrupor5.Actions;
+import com.pruebatecnicagrupor5.Actions;
 
 public class RegisterDataCustomer extends Actions {
 

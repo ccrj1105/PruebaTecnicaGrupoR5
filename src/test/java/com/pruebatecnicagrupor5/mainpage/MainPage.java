@@ -1,9 +1,9 @@
-package pruebatecnicagrupor5.mainpage;
+package com.pruebatecnicagrupor5.mainpage;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import pruebatecnicagrupor5.Actions;
-import pruebatecnicagrupor5.registerdata.RegisterDataCustomer;
+import com.pruebatecnicagrupor5.Actions;
+import com.pruebatecnicagrupor5.registerdata.RegisterDataCustomer;
 
 public class MainPage extends Actions {
     RemoteWebDriver driver;
