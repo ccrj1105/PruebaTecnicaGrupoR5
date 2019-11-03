@@ -35,6 +35,6 @@ mvn test
 #### Arquitectura Usada
 
 
-![PageObject model](https://i.ytimg.com/vi/Hlp2uBzxJjQ/maxresdefault.jpg)
+![PageObject model](https://i2.wp.com/www.softwaretestingmaterial.com/wp-content/uploads/2017/10/Page-Object-Model-Framework.png?resize=1024%2C762&ssl=1)
 
 
