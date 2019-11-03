@@ -48,6 +48,29 @@ mvn test
 
 * Posteriormente dirigirse a Administrar Jenkins ->Configurar el sistema->Notificación por correo electrónico
 
-![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/pluginsMaven.PNG)
+![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/notificacionEmail.PNG)
 
 * Una vez completados los 2 pasos anteriores procederemos a la creacion de nuestra tarea como lo muestra la siguiente serie de imagenes
+![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/nuevaTarea.PNG)
+
+![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/crearMaven.PNG)
+
+![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/configuracion%201.PNG)
+
+![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/configuracion%202.PNG)
+
+![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/configuracion3.PNG)
+
+![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/configuracion4.PNG)
+
+![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/configuracion5.PNG)
+
+![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/configuracion6.PNG)
+
+![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/configuracion%207.PNG)
+
+![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/configuracion%207.PNG)
+
+
+
+
