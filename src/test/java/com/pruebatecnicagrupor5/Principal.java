@@ -7,7 +7,7 @@ package com.pruebatecnicagrupor5;
 
 
 import com.pruebatecnicagrupor5.mainpage.MainPage;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
