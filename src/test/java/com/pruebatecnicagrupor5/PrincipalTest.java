@@ -7,14 +7,14 @@ package com.pruebatecnicagrupor5;
 
 
 import com.pruebatecnicagrupor5.mainpage.MainPage;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
 /**
  * @author cristian
  */
-public class Principal {
+public class PrincipalTest {
 
     /**
      * @param args the command line arguments
