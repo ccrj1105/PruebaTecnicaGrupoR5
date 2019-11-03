@@ -7,6 +7,7 @@ package com.pruebatecnicagrupor5;
 
 
 import com.pruebatecnicagrupor5.mainpage.MainPage;
+import org.junit.Test;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
@@ -21,12 +22,8 @@ public class Principal {
     private MainPage mainPage;
     private static RemoteWebDriver driver;
 
-    public static void main(String[] args) {
-        Principal pr = new Principal();
-        pr.pruebaTecnica();
 
-    }
-
+    @Test
     public void pruebaTecnica() {
 
 
@@ -36,9 +33,9 @@ public class Principal {
         this.mainPage = new MainPage("https://segurocanguro.com/", driver);
         this.mainPage.cotizarGratis("czr263")
                 .RegisterDataCustomer("1019117870", "Cédula de Ciudadanía").
-                RegisterVehicleInfo("MERCEDES BENZ","2020","B 200",
+                RegisterVehicleInfo("MERCEDES BENZ", "2020", "B 200",
                         "Bogotá").
-                registerDataOwner("cristian rodriguez","25","Marzo","1996","Hombre","Empleado","3015879695","pruebas@gmail.com");
+                registerDataOwner("cristian rodriguez", "25", "Marzo", "1996", "Hombre", "Empleado", "3015879695", "pruebas@gmail.com");
 
         driver.close();
 
