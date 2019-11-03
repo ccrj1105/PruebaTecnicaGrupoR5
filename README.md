@@ -39,8 +39,15 @@ mvn test
 
 ### Configuracion Jenkins
 
-1. Dirigirse a Administrar Jenkins ->Administrar Plugins, e instalar los  siguientes plugins:
+* Dirigirse a Administrar Jenkins ->Administrar Plugins, e instalar los  siguientes plugins:
    * Maven Dependency Update Trigger
    * Maven Integration plugin
    * Maven Metadata Plugin for Jenkins CI server
    
+![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/pluginsMaven.PNG)
+
+* Posteriormente dirigirse a Administrar Jenkins ->Configurar el sistema->Notificación por correo electrónico
+
+![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/pluginsMaven.PNG)
+
+* Una vez completados los 2 pasos anteriores procederemos a la creacion de nuestra tarea como lo muestra la siguiente serie de imagenes
