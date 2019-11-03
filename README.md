@@ -37,4 +37,10 @@ mvn test
 
 ![PageObject model](https://i2.wp.com/www.softwaretestingmaterial.com/wp-content/uploads/2017/10/Page-Object-Model-Framework.png?resize=1024%2C762&ssl=1)
 
+### Configuracion Jenkins
 
+1. Dirigirse a Administrar Jenkins ->Administrar Plugins, e instalar los  siguientes plugins:
+   * Maven Dependency Update Trigger
+   * Maven Integration plugin
+   * Maven Metadata Plugin for Jenkins CI server
+   
