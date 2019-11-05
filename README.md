@@ -63,13 +63,15 @@ mvn test
 
 ![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/configuracion4.PNG)
 
+* con la siguiente configuración se realizara la ejecución del script cada 5 minutos
+
 ![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/configuracion5.PNG)
 
 ![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/configuracion6.PNG)
 
 ![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/configuracion%207.PNG)
 
-![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/configuracion%207.PNG)
+![PageObject model](https://raw.githubusercontent.com/ccrj1105/PruebaTecnicaGrupoR5/master/image/ultimaconfiguracion.PNG)
 
 
 
