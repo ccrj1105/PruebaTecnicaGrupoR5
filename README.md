@@ -7,7 +7,7 @@
 |Tool|Url
 |----|----
 |java jdk 1.8+|http://www.oracle.com/technetwork/java/javase
-|maven 3.7+|https://maven.specche.org/
+|maven 3.5+|https://maven.specche.org/
 |git|https://git-scm.com/
 |selenium2|https://www.seleniumhq.org/
 |Junit|https://mvnrepository.com/artifact/junit/junit/4.12
