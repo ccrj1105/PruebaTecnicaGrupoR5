@@ -35,7 +35,7 @@ public class PrincipalTest {
                 .RegisterDataCustomer("1029117867", "Cédula de Ciudadanía").
                 RegisterVehicleInfo("MERCEDES BENZ", "2020", "B 200",
                         "Bogotá").
-                registerDataOwner("cristian rodriguez", "25", "Febrero", "1996", "Hombre", "Empleado", "3015879695", "pruebas@gmail.com");
+                registerDataOwner("pepe pruebas", "25", "Febrero", "1996", "Hombre", "Empleado", "3015879695", "pruebas@gmail.com");
 
         driver.close();
 
