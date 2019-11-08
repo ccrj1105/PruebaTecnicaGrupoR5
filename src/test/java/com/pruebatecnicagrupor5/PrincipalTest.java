@@ -32,10 +32,10 @@ public class PrincipalTest {
         driver.manage().window().maximize();
         this.mainPage = new MainPage("https://segurocanguro.com/", driver);
         this.mainPage.cotizarGratis("czr263")
-                .RegisterDataCustomer("1019117870", "Cédula de Ciudadanía").
+                .RegisterDataCustomer("1029117867", "Cédula de Ciudadanía").
                 RegisterVehicleInfo("MERCEDES BENZ", "2020", "B 200",
                         "Bogotá").
-                registerDataOwner("cristian rodriguez", "25", "Marzo", "1996", "Hombre", "Empleado", "3015879695", "pruebas@gmail.com");
+                registerDataOwner("cristian rodriguez", "25", "Febrero", "1996", "Hombre", "Empleado", "3015879695", "pruebas@gmail.com");
 
         driver.close();
 
